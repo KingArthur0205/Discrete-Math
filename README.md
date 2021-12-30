@@ -3,3 +3,4 @@
 1. [Sets, Union, and Intersection](https://github.com/KingArthur0205/Discrete-Math/blob/main/Lecture%20notes%20by%20L%C3%A1szl%C3%B3%20Lov%C3%A1sz/Ch2%20Sets/%E3%80%90Discrete_Math%E3%80%91Day1.pdf)
 2. [The Number of Subsets](https://github.com/KingArthur0205/Discrete-Math/blob/main/Lecture%20notes%20by%20L%C3%A1szl%C3%B3%20Lov%C3%A1sz/Ch2%20Sets/%E3%80%90Discrete_Math%E3%80%91Day_1(2).pdf)
 3. [Sequences](https://github.com/KingArthur0205/Discrete-Math/blob/main/Lecture%20notes%20by%20L%C3%A1szl%C3%B3%20Lov%C3%A1sz/Ch2%20Sets/%E3%80%90Discrete_Math%E3%80%91Day2.pdf)
+4. [Permutations](https://github.com/KingArthur0205/Discrete-Math/blob/main/Lecture%20notes%20by%20L%C3%A1szl%C3%B3%20Lov%C3%A1sz/Ch2%20Sets/%E3%80%90Discrete_Math%E3%80%91Day2(2).pdf)
